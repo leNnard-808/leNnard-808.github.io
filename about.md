@@ -4,7 +4,7 @@ layout: page
 ---
 <!-- ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}) -->
 
-Moin! My name is Lennard and I'm currently a Master's student in Electrical Engineering and Information Technology at the [University of Bremen](https://www.uni-bremen.de/en/fb1?sword_list%5B0%5D=boeschen&cHash=5c24203c406c1ab80f632932b4dae164) with a specialization in Smart Electronic Systems. If you are interested in my works and experience, please refer to the [Projects](lennardlemmer.de/projects) page.
+Moin! My name is Lennard and I'm currently a Master's student in Electrical Engineering and Information Technology at the [University of Bremen](https://www.uni-bremen.de/en/fb1?sword_list%5B0%5D=boeschen&cHash=5c24203c406c1ab80f632932b4dae164) with a specialization in Smart Electronic Systems. If you are interested in my works and experience, please refer to the [Projects](projects.html) page.
 
 In my leisure time, I dedicate myself to reading books, playing instruments, playing chess and other nerdy stuff. I find a lot of joy in expanding my knowledge in any given topic, which has led me to do plenty of Coursework. As nowadays most degree programs focus on theory, without actually doing stuff.
 
