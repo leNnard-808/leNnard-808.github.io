@@ -1,18 +1,15 @@
 ---
-title: "Beyond the Board"
+title: "Test post"
 layout: post
 date: 2023-12-24 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- chess
-- memory
-- productivity
-- learning
+- test
 star: true
 category: blog
 author: johndoe
-description: Discover how chess helped me improve my memory significantly after two years of active playing
+description: Test description
 ---
 
 Basic formatting
