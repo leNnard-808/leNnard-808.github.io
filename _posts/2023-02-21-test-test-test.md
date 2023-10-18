@@ -1,5 +1,5 @@
 ---
-title: "Beyond the Board: How Chess Sharpened My Memory"
+title: "Beyond the Board"
 layout: post
 date: 2016-02-24 22:44
 image: /assets/images/markdown.jpg
