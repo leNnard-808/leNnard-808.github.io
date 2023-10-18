@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Board"
 layout: post
-date: 2023-09-24 22:44
+date: 2023-10-24 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
