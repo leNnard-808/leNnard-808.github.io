@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Board: How Chess Sharpened My Memory"
 layout: post
-date: 2023-October-24 22:44
+date: 2023-October-18 14:00
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
