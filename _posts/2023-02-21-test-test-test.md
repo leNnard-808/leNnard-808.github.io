@@ -10,7 +10,7 @@ tag:
 star: true
 category: blog
 author: johndoe
-description: Markdown summary with different options
+description: Discover how chess helped me improve my memory significantly after two years of active playing
 ---
 
 Basic formatting
