@@ -9,7 +9,7 @@ tag:
 - memory
 - productivity
 - learning
-category: blog
+category: draft
 author: lennardlemmer
 description: Discover how chess helped me improve my memory significantly after two years of active playing
 ---
